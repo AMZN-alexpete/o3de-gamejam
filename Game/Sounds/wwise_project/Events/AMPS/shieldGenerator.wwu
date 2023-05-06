@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D49A7F17-5E56-4DE2-816D-4286ED6A3BE2}" SchemaVersion="103" RootDocumentID="{5EB6A947-AE29-4177-BEA7-75AF5B08CEB0}" ParentDocumentID="{5D3AE987-B23A-43C3-8065-135D4594325B}">
+	<Events>
+		<WorkUnit Name="shieldGenerator" ID="{D49A7F17-5E56-4DE2-816D-4286ED6A3BE2}" OwnerID="{5D3AE987-B23A-43C3-8065-135D4594325B}" PersistMode="Nested"/>
+	</Events>
+</WwiseDocument>

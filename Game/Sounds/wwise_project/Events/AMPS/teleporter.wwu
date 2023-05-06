@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9280D571-E077-4273-BE2F-92C4E42F8DF1}" SchemaVersion="103" RootDocumentID="{5EB6A947-AE29-4177-BEA7-75AF5B08CEB0}" ParentDocumentID="{5D3AE987-B23A-43C3-8065-135D4594325B}">
+	<Events>
+		<WorkUnit Name="teleporter" ID="{9280D571-E077-4273-BE2F-92C4E42F8DF1}" OwnerID="{5D3AE987-B23A-43C3-8065-135D4594325B}" PersistMode="Nested"/>
+	</Events>
+</WwiseDocument>

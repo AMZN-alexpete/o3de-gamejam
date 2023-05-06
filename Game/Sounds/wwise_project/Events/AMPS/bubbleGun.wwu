@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5006F684-C70B-4BF6-9E09-86C6532756E0}" SchemaVersion="103" RootDocumentID="{5EB6A947-AE29-4177-BEA7-75AF5B08CEB0}" ParentDocumentID="{E8F53651-A80E-47A5-A3D1-FE5D411A6327}">
+	<Events>
+		<WorkUnit Name="bubbleGun" ID="{5006F684-C70B-4BF6-9E09-86C6532756E0}" OwnerID="{E8F53651-A80E-47A5-A3D1-FE5D411A6327}" PersistMode="Nested"/>
+	</Events>
+</WwiseDocument>

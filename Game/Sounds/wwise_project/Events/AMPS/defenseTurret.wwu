@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CF19DCBF-DBAF-47EA-BB92-20770380FC6C}" SchemaVersion="103" RootDocumentID="{5EB6A947-AE29-4177-BEA7-75AF5B08CEB0}" ParentDocumentID="{5D3AE987-B23A-43C3-8065-135D4594325B}">
+	<Events>
+		<WorkUnit Name="defenseTurret" ID="{CF19DCBF-DBAF-47EA-BB92-20770380FC6C}" OwnerID="{5D3AE987-B23A-43C3-8065-135D4594325B}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="play_sx_int_defenseturret_shot" ID="{DB3FD57F-2912-411A-A8C7-B803677A0908}">
+					<ChildrenList>
+						<Action Name="" ID="{BCF895CE-0FA3-4C66-BAEC-C5CC0A81C0F4}" ShortID="313185842">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sx_int_defenseTurret_shot" ID="{26EFE111-B99D-40A0-9332-5B788083104E}" WorkUnitID="{91FC1C7C-6270-4F53-848A-9AD118F4D59E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

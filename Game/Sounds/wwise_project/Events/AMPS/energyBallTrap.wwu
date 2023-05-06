@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8582AA88-0A9A-4FEC-BCB9-77D0CA9E8774}" SchemaVersion="103" RootDocumentID="{5EB6A947-AE29-4177-BEA7-75AF5B08CEB0}" ParentDocumentID="{5D3AE987-B23A-43C3-8065-135D4594325B}">
+	<Events>
+		<WorkUnit Name="energyBallTrap" ID="{8582AA88-0A9A-4FEC-BCB9-77D0CA9E8774}" OwnerID="{5D3AE987-B23A-43C3-8065-135D4594325B}" PersistMode="Nested"/>
+	</Events>
+</WwiseDocument>

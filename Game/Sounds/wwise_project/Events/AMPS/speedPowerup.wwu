@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B1170A6B-47FE-44B4-AB4C-58C64DC49DFF}" SchemaVersion="103" RootDocumentID="{5EB6A947-AE29-4177-BEA7-75AF5B08CEB0}" ParentDocumentID="{5D3AE987-B23A-43C3-8065-135D4594325B}">
+	<Events>
+		<WorkUnit Name="speedPowerup" ID="{B1170A6B-47FE-44B4-AB4C-58C64DC49DFF}" OwnerID="{5D3AE987-B23A-43C3-8065-135D4594325B}" PersistMode="Nested"/>
+	</Events>
+</WwiseDocument>
