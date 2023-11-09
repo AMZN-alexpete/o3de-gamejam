@@ -1,0 +1,12 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "RC pkat": {
+                    "glob": "*.pkat",
+                    "params": "copy"
+                }
+            }
+        }
+    }
+}

@@ -20,15 +20,8 @@
     "icon_path": "preview.png",
     "requirements": "",
     "documentation_url": "",
-    "dependencies": [
-        "PopcornFX==2.16.2"
-    ],
-    "compatible_engines": [
-    ],
-    "engine_api_dependencies":[
-    ],
-    "external_subdirectories":[
-        "PopcornFX",
-        "AudioEngineWwise"
-    ]
+    "dependencies": [],
+    "compatible_engines": [],
+    "engine_api_dependencies":[],
+    "external_subdirectories":[]
 }

@@ -15,12 +15,15 @@
     "icon_path": "preview.png",
     "engine": "o3de",
     "external_subdirectories": [
-        "Gem"
+        "Gem",
+        "Gems/AudioEngineWwise",
+        "Gems/PopcornFX"
     ],
     "restricted": "Game",
     "gem_names": [
         "Game",
         "Atom",
+        "AudioEngineWwise==0.0.1",
         "AudioSystem",
         "AWSCore",
         "CameraFramework",
@@ -42,12 +45,11 @@
         "StartingPointInput",
         "TextureAtlas",
         "WhiteBox",
-        "AudioEngineWwise",
         "FastNoise",
         "HttpRequestor",
         "LocalUser",
         "Maestro",
-        "PopcornFX",
+        "PopcornFX==2174.0.0",
         "Profiler",
         "RecastNavigation",
         "RemoteTools",
@@ -59,6 +61,5 @@
     ],
     "repo_uri": "http://localhost:8888",
     "license_url": "https://opensource.org/licenses/MIT",
-    "download_source_uri": "http://localhost:8888/releases/Game_release_1.0.0.zip",
-    "engine_version": "23.05.0"
+    "download_source_uri": "http://localhost:8888/releases/Game_release_1.0.0.zip"
 }
