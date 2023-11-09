@@ -17,11 +17,9 @@
                     "recursive": 1,
                     "order": 3
                 },
-                "Exclude PopcornFX": {
-                    "glob": "Gem/PopcornFX/*"
-                },
-                "Exclude AudioEngineWwise": {
-                    "glob": "Gem/AudioEngineWwise/*"
+                "ProjectRelativeGemsScanFolderPriority":"higher",
+                "Exclude Project/Gems": {
+                    "glob": "Gems/*"
                 }
             }
         }
