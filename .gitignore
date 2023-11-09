@@ -1,0 +1,7 @@
+__pycache__
+releases/
+sdk/
+Tools/
+user/
+*~
+*.swp
